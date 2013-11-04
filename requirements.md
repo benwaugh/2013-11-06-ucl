@@ -27,6 +27,7 @@ Whichever system you use for the actual exercises will need the following softwa
 Ideally you should also have:
 
 * [IPython][ipython]
+* a [GitHub] account: you can sign up for free, and doing so in advance will save time during the course
 
 [git]: http://git-scm.com/
 [python]: http://www.python.org/
@@ -34,6 +35,7 @@ Ideally you should also have:
 [pyroot]: http://root.cern.ch/drupal/content/pyroot
 [nose]: https://nose.readthedocs.org/en/latest/
 [ipython]: http://ipython.org/
+[GitHub]: https://github.com/
 
 ### Testing your environment
 
